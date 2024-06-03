@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Original list:");
         singleLinkedList.traverseLinkedList();
         singleLinkedList.delete(0);
-        System.out.println("List after deleting node with values 2 and 5:");
+        System.out.println("List after deleting node with value 2:");
         singleLinkedList.traverseLinkedList();
 
         singleLinkedList.searchNode(7);
